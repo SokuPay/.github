@@ -38,6 +38,6 @@ Buy/Mint NFT at offline event space using QR code payment(SokuPay).
 ![system overview](https://github.com/SokuPay/.github/blob/main/docs/system-overview.png?raw=true)
 
 ## Source Code
-- [iot](https://github.com/SokuPay/iot): Raspberry Pi(display and button device)
-- [frontend](https://github.com/SokuPay/frontend): React(show QR code) source code in Raspberry Pi
-- [web3server](https://github.com/SokuPay/web3server): web3.js and business logic source code
+- [iot](https://github.com/SokuPay/iot): (Raspberry Pi) load and show QR code to QR Device
+- [frontend](https://github.com/SokuPay/frontend): (React) show QR code to Raspberr Pi
+- [web3server](https://github.com/SokuPay/web3server): (Solana Pay) web3.js and business logic to frontend
