@@ -7,6 +7,7 @@ Buy NFT using QR code payment service(IoT x QR x NFT).
 ## Overview
 ### Use case
 Buy/Mint NFT at offline event space using QR code payment(SokuPay).
+And user can check mint histories(by Coral Cube Royalty Tracking API) before buy NFT.
 
 ![payment page](https://github.com/SokuPay/.github/blob/main/docs/payment-page.png?raw=true)
 
